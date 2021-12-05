@@ -1,4 +1,4 @@
-### Hi there I am SUraj !👋
+### Hi there I am Suraj !👋
 
 Here are some ideas to get you started:
 
