@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: JotNotes
+- 🔭 I’m currently working on: Drip YMusic Player
 - 🌱 I’m currently learning: App development.
 - 💬 Ask me about: Tech & History.
 - ....
