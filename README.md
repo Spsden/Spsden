@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratapsinghusuraj336@gmail.com)
 
-<a href=”https://www.linkedin.com/in/spsden/"><img align=”left” src=”https://github.com/yushi1007/yushi1007/blob/main/images/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
 
 
 
