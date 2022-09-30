@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: Drip YMusic Player
-- 🌱 I’m currently learning: App development.
+- 🔭 I’m currently working on: Rush website
+- 🌱 I’m currently learning: Nothing, college eats up my time !!
 - 💬 Ask me about: Tech & History.
 - ....
 
