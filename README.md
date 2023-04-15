@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: Rush website
-- 🌱 I’m currently learning: Nothing, college eats up my time !!
+- 🌱 I’m currently learning: Next js and Dart FFI!!
 - 💬 Ask me about: Tech & History.
 - ....
 
