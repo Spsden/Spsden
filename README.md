@@ -1,11 +1,62 @@
-### Hi there I am Suraj !👋
+### Hi there!👋
+I'm [**Suraj Pratap Singh**](https://github.com/Spsden) 
 
-Here are some ideas to get you started:
+### My interests are
 
-- 🔭 I’m currently working on: Rush website
-- 🌱 I’m currently learning: Next js and Dart FFI!!
-- 💬 Ask me about: Tech & History.
-- ....
+- Mobile applications.
+- Desktop applications.
+- Backend and databases.
+- Web applications & websites.
+- Web scraping.
+- Reverse engineering.
+
+### My skillset is
+
+<table>
+  <tr>
+    <td>Frameworks & Libraries</td>
+    <td>
+      Flutter, Provider, Riverpod
+      <br>
+      React.js, react-router-dom, Node.js, Next.js, express.js
+      <br>
+     Flask, MySQL, AppScript
+      <br>
+     Jetpack Compose, XML, Retrofit, Dagger Hilt.
+    </td>
+  </tr>
+  <tr>
+    <td>Programming Languages</td>
+    <td>
+      Dart, C++
+      <br>
+      JavaScript, TypeScript
+      <br>
+      Java, Kotlin
+        <br>
+      Python
+    </td>
+  </tr>
+  <tr>
+    <td>Development Tools</td>
+    <td>
+      Git, Github
+      <br>
+      Visual Studio Code, Postman
+      <br>
+      Android Studio
+    </td>
+  </tr>
+  <tr>
+    <td>Platforms</td>
+    <td>
+      Deployment:  Vercel, Render
+      <br>
+      Operating Systems: Windows, GNU/Linux, macOS, Windows Subsystem for Linux
+    </td>
+  </tr>
+</table>
+
 
 
 
